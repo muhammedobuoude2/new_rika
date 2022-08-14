@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765878902329",
+    "project_id": "rika-80b67",
+    "storage_bucket": "rika-80b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765878902329:android:4c937cb573846b613737e8",
+        "android_client_info": {
+          "package_name": "com.example.rika_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765878902329-72buobe4i4vcn676375b0dfu6uc53mun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdOHOtNcDqtUHwYvc-7PvpbbnC-j-yAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765878902329-72buobe4i4vcn676375b0dfu6uc53mun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

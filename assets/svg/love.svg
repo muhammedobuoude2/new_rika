@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="love" transform="translate(-320 -350)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="15" cy="15" r="15" transform="translate(320 350)" fill="#fff"/>
+    <g id="icon">
+      <path id="Vector" d="M.269,6.21C-.506,3.791.4,1.025,2.94.207A4.339,4.339,0,0,1,6.862.866,4.371,4.371,0,0,1,10.776.207c2.54.818,3.452,3.584,2.678,6C12.248,10.046,6.862,13,6.862,13S1.515,10.091.269,6.21Z" transform="translate(328 359)" fill="none" stroke="#130f26" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0A2.009,2.009,0,0,1,1.385,1.749" transform="translate(337.751 361.672)" fill="none" stroke="#130f26" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

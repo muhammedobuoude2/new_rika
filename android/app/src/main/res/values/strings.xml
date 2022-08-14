@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">rika store</string>
+    <string name="facebook_app_id">517191833501022</string>
+    <string name="fb_login_protocol_scheme">fb517191833501022</string>
+    <string name="facebook_client_token">cb2412a6dcc474ad6843be6e7c39288e</string>
+</resources>
